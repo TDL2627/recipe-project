@@ -78,7 +78,7 @@ h1.groove {
           background-color: pink;
         }
         table, th, td {
-          border: 3px solid red;
+          border: 3px groove red;
         }
 .thick-gold-border{
   border-color: gold;
