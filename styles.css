@@ -83,7 +83,11 @@ h1.groove {
 .thick-gold-border{
   border-color: gold;
     border-width: 10px;
-    border-style: solid;
+    border-style: groove;
 }
 
-        
+ .thick-yellow-border{
+  border-color: yellow;
+  border-width: 20px;
+  border-style: groove;
+ }       
