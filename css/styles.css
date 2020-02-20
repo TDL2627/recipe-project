@@ -1,5 +1,5 @@
 body {
-    background-color: wheat;
+    background-color: lightgrey;
   }
   .gold-text { 
     color: gold;
@@ -10,7 +10,7 @@ body {
   }
   /* google font */
   h1 {
-      font-family: Lobster;
+      font-family: Knewave;
   }
   p.groove {border-style: groove;}
 
@@ -59,7 +59,7 @@ h1.groove {
     .col-12 {width: 100%;}
   }
   .thick-green-border {
-    border-color: green;
+    border-color: red;
     border-width: 10px;
     border-style: solid;
     border-radius: 50%;
@@ -75,19 +75,19 @@ h1.groove {
         }
         aside, section {
           padding: 2px;
-          background-color: pink;
+          background-color: red;
         }
         table, th, td {
           border: 3px groove red;
         }
 .thick-gold-border{
-  border-color: gold;
+  border-color:red;
     border-width: 10px;
     border-style: groove;
 }
 
  .thick-yellow-border{
-  border-color: yellow;
+  border-color: red;
   border-width: 20px;
   border-style: groove;
  }       
