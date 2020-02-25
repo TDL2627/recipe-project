@@ -1,16 +1,14 @@
 body {
-    background-color: lightgrey;
+    background-color: rgb(235, 228, 228)181, 181);
+    padding: 5%;
   }
-  .gold-text { 
-    color: gold;
-
-  }
-  h1 {
-    font-size: 100px;
-  }
+  
+  
   /* google font */
   h1 {
-      font-family: Knewave;
+      font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      margin: 5%;
+      font-size: 200px;
   }
   p.groove {border-style: groove;}
 
@@ -66,19 +64,33 @@ h1.groove {
   }
   #left {
     float: left;
-          width: 50%;
+          width: 40%;
+          color: whitesmoke;
+          font-size: large;
+        
+          
         }
         #right {
-    float: right;
-          width: 45%;
+    float: left;
+          width: 40%;
+          color: whitesmoke;
+          padding-bottom: 150px;
+          font-size: large;
+        
 
         }
         aside, section {
-          padding: 2px;
-          background-color: red;
+          padding: 0 5%;
+          background-color: rgb(233, 45, 45);
+          margin : 5%;
+
+          
         }
         table, th, td {
-          border: 3px groove red;
+          border: 3px groove rgb(201, 49, 49);
+          padding-left: 5%;
+          margin-left: 5%;
+          margin-right: 5%;
         }
 .thick-gold-border{
   border-color:red;
@@ -91,3 +103,19 @@ h1.groove {
   border-width: 20px;
   border-style: groove;
  }       
+
+ footer {
+   color: white;
+   font-size: x-large;
+   margin: 5%;
+   background-color: black;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+
+ p {
+font-size: large;
+ }
+ 
+ h4 {
+   font-size: larger;
+ }
